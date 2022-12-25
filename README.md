@@ -1,1 +1,5 @@
-# go-microservice
+# How To Run Server
+
+```console
+./run.sh
+```
