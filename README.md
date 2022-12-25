@@ -1,4 +1,4 @@
 # go-microservice_hexagonal
 
-#run app
-#./run.sh
+run app -->
+./run.sh
