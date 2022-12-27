@@ -1,4 +1,4 @@
-# How To Run Server
+# Run Server
 
 ```console
 ./run.sh
